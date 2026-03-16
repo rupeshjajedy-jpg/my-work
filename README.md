@@ -1,2 +1,2 @@
 # THIS IS MY PRACTICE LEARNING 
-in this repository i am making a decision treee and one heart attack machine learning related project
+in this repository i show my practice codes and little bit projects 
